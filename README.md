@@ -13,16 +13,18 @@ A fully responsive **Netflix homepage clone**, designed using **HTML & CSS**, fe
 - **HTML5** - Structure and content.  
 - **CSS3** - Styling and layout design.  
 
+```
 ## 📂 Project Structure  
 📁 Netflix-Clone
 ├── 📄 index.html # Main HTML structure
 ├── 📄 style.css # CSS for styling
 ├── 📁 assets/ # Images & videos
+```
 
 ## 🛠️ Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/ImmortaCoder-001/NetflixClone.git
 2.Open index.html in your browser.
 
 📞 Contact
