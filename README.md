@@ -2,9 +2,6 @@
 
 A fully responsive **Netflix homepage clone**, designed using **HTML & CSS**, featuring a sleek UI, a background video, and a modern layout.
 
-## 🌐 Live Demo
-
-**[View Live Project →](https://netflix-clone-pzilr5noc-immortalcoder-001s-projects.vercel.app/)**
 
 ## 🚀 Features  
 - **Responsive Design**: Adapts seamlessly to all screen sizes.  
